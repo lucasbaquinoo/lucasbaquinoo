@@ -2,10 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucasbaquino-020887?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbaquino/)](https://www.linkedin.com/in/lucasbaquino/) [![iCloud Badge](https://img.shields.io/badge/-lucasbaquino@icloud.com-22181c?style=flat-square&logo=Apple&logoColor=white&link=mailto:lucasbaquino@icloud.com)](mailto:lucasbaquino@icloud.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511991257551)](https://api.whatsapp.com/send?phone=5511991257551)
 
-🙋🏻‍♂️ Olá, meu nome é Lucas, tenho 21 anos de idade. No momento estou cursando Ciências da Computação.
+🙋🏻‍♂️ Hi, my name is Lucas and i'm 21 years old. I'm currently studying Science Computer.
 
-📚 Estou sempre buscando novos desafios que possam contribuir com o meu aprendizado.
+📚 I'm always searching for new challenges to improve my knowledge.
 
-💁🏻‍♂️ No que eu puder te ajudar, estarei a disposição e espero contar com você também! ⭐️
-
-☕️ Me chame no meu LinkedIn e quem sabe, podemos aprender muito um com o outro!
+☕️ If you want to have a talk about programming and the technology market, I am available!
