@@ -1,11 +1,28 @@
-# Lucas Batista
+### Hi, I'm Lucas! 
 
-<img src="https://user-images.githubusercontent.com/57778245/92634402-a54efa00-f2aa-11ea-9789-609a486abf5a.png" alt="Header" />
+  <a href="https://www.linkedin.com/in/lucasbaquino" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/lucasbaquinoo" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/xcaluca" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/xcaluca" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/lucasbataquino/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+<br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-lucasbaquino-020887?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbaquino/)](https://www.linkedin.com/in/lucasbaquino/) [![iCloud Badge](https://img.shields.io/badge/-lucasbaquino@icloud.com-22181c?style=flat-square&logo=Apple&logoColor=white&link=mailto:lucasbaquino@icloud.com)](mailto:lucasbaquino@icloud.com) [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511991257551)](https://api.whatsapp.com/send?phone=5511991257551)
+<p align="center">  
+  <a href="https://github.com/julianaizac">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasbaquinoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucasbaquinoo"/>
+  </a>
+  <a href="https://github.com/julianaizac">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbaquinoo&layout=compact&theme=dracula"/>
+  </a>
+</p>
 
-🙋🏻‍♂️ Hi, my name is Lucas and i'm 21 years old. I'm currently studying Science Computer.
-
-📚 I'm always searching for new challenges to improve my knowledge.
-
-☕️ If you want to have a talk about programming and the technology market, I am available!
