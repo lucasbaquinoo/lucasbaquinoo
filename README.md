@@ -18,10 +18,10 @@
 <br><br>
 
 <p align="center">  
-  <a href="https://github.com/julianaizac">
+  <a href="https://github.com/lucasbaquinoo">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasbaquinoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucasbaquinoo"/>
   </a>
-  <a href="https://github.com/julianaizac">
+  <a href="https://github.com/lucasbaquinoo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbaquinoo&layout=compact&theme=dracula"/>
   </a>
 </p>
