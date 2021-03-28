@@ -6,9 +6,6 @@
   <a href="https://github.com/lucasbaquinoo" target="_blank">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub">
   </a>
-  <a href="https://twitter.com/xcaluca" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
   <a href="https://www.instagram.com/xcaluca" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -19,10 +16,10 @@
 
 <p align="center">  
   <a href="https://github.com/lucasbaquinoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasbaquinoo&show_icons=true&theme=white&include_all_commits=true&count_private=true" alt="lucasbaquinoo"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasbaquinoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucasbaquinoo"/>
   </a>
   <a href="https://github.com/lucasbaquinoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbaquinoo&layout=compact&theme=white"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbaquinoo&layout=compact&theme=dracula"/>
   </a>
 </p>
 
