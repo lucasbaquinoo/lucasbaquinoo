@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbaquinoo&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbaquinoo" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lucasbaquinoo&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbaquinoo" />
+  <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1226?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbaquinoo" alt="lucasbaquinoo" /></a> </p>
 
