@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbaquinoo&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbaquinoo" /> </p>
 
-- 🔭 I’m currently working on [Samba Digital](https://www.linkedin.com/company/samba-digital-tech/mycompany/)
+- 🔭 I’m currently working on [ioasys](https://ioasys.com.br/)
 
 - 🌱 I’m currently learning **NextJS, ReactJS and NodeJS**
 
