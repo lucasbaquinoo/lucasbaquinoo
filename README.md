@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbaquinoo&show_icons=true&locale=en&layout=compact" alt="lucasbaquinoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbaquinoo&show_icons=true&locale=en" alt="lucasbaquinoo" /></p>
+
