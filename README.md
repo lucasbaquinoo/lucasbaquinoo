@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbaquinoo&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbaquinoo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbaquinoo&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbaquinoo" />  <a href="https://wakatime.com/@2ec22817-17af-4161-8556-fdbdfc820ba2"><img src="https://wakatime.com/badge/user/2ec22817-17af-4161-8556-fdbdfc820ba2.svg" alt="Total time coded since Nov 3 2020" /></a> </p>
 
 - 🔭 I’m currently working on [ioasys](https://ioasys.com.br/)
 
